@@ -5,7 +5,7 @@ This will help us to serve different marketing stratergies for different group o
 1. Age of the most frequent customers
 2. Annual Income of the customers
 3. Age, Gender
-4. Spendiding Score etc.
+4. Spending Score etc.
 
 Major Visualizations of the project:
 1. Frequency of the Spending Score is high between 50 to 55 (out of 100)
